@@ -7,7 +7,7 @@ html { color-scheme: light dark; }
 body { width: 35em; margin: 0 auto; font-family: Tahoma, Verdana, Arial, sans-serif; }
 form {
     width: 100%;
-    background-color: #BCCBD2;
+    background-color: red;
     padding : 5px 0px;
 }
 .c100{
